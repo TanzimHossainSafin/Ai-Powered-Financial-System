@@ -117,7 +117,7 @@ This project demonstrates the integration of traditional finance (stocks) with m
     │   │   └── Crypto/     # Cryptocurrency components
     │   │       ├── CoinData.jsx
     │   │       ├── AirDrop.jsx
-    │   │       └── solana_Addapter.jsx
+    │   │       └── solana_Adapter.jsx
     │   └── DashBord/
     │       └── NavBar.jsx
     └── public/             # Static assets
